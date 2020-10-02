@@ -7,3 +7,4 @@
 - 📫 How to reach me: Insta - neemapriyansh29  
 - 😄 Pronouns: He/His...
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+- self learner
