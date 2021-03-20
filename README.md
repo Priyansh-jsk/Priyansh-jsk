@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at Shri Vaishnav Vidyapeeth Vishwavidyalaya.
 - 🌱 I’m currently learning Docker, Ansible & ML.
-- 👯 I’m looking to collaborate on open source project like GSoC,GSSoC.
+- 👯 I’m looking to collaborate on open source project like GSoC.
 - 💬 Ask me about C, Python or any Tech related stuff.
 - 📫 How to reach me: Insta - neemapriyansh29  
 - 😄 Pronouns: He/His...
